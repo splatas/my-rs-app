@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Implementation-Title: Quickstart: helloworld-rs
+Implementation-Version: 15.0.0.CR1-SNAPSHOT
+Java-Version: 1.8.0_191
+Built-By: sergio
+Scm-Connection: scm:git:git@github.com:jboss/jboss-parent-pom.git/quic
+ kstart-parent/helloworld-rs
+Specification-Vendor: JBoss by Red Hat
+Os-Arch: amd64
+Specification-Title: Quickstart: helloworld-rs
+Implementation-Vendor-Id: org.wildfly.quickstarts
+Java-Vendor: Oracle Corporation
+Os-Name: Linux
+Scm-Url: http://github.com/jboss/jboss-parent-pom/quickstart-parent/he
+ lloworld-rs
+Implementation-Vendor: JBoss by Red Hat
+Os-Version: 4.15.0-39-generic
+Scm-Revision: 
+Build-Jdk: 1.8.0_191
+Specification-Version: 15.0
+Created-By: Maven Integration for Eclipse
+Implementation-URL: https://github.com/wildfly/quickstart/helloworld-r
+ s
+
